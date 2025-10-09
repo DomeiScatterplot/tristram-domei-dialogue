@@ -1,5 +1,21 @@
-# https://github.com/DomeiScatterplot/
-トリストラム・シャンディの形式にならい、怒名による「完成できない作品」を記すための蔵書庫。
+# 続　トリストラム・シャンディ紳士との筆者怒名と機械による意見交換  公開版
+# Continuation of Tristram Shandy, Gentleman: A Correspondence Between Domei and the Machine — Public Edition
+
+トリストラム・シャンディの形式にならい、怒名による「完成できない作品」を記すための蔵書庫。  
+A repository modeled after the form of *The Life and Opinions of Tristram Shandy, Gentleman*,  
+serving as an archive for the “unfinished works” of Domei.
+
+---
+
+## About this Work | この作品について
+
+This project includes texts **generated, translated, or co-authored with a Large Language Model (LLM)**.  
+The author, **Domei**, curates, edits, and interprets all AI-generated and AI-translated material  
+as part of an ongoing literary experiment in human–machine collaboration.
+
+本プロジェクトには、**大規模言語モデル（LLM）によって生成・翻訳・共同執筆された文章**が含まれます。  
+筆者 **怒名（Domei）** は、それらのAI生成・AI翻訳の出力を編集・構成し、  
+人間と機械のあいだの創作実験として提示しています。
 
 ---
 
@@ -20,3 +36,7 @@ Attribution should include a visible note such as
 
 © 2025 Domei  
 [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
+
+
+
+
