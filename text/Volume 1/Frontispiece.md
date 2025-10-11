@@ -1,47 +1,25 @@
-T  H  E
+THE LIFE AND OPINIONS OF TRISTRAM SHANDY, GENTLEMAN.
 
-L   I   F   E
+Tarassei tous Anthropous ou ta Pragmata, alla ta peri ton Pragmaton, Dogmata.
 
-A  N  D
+VOL. I. THE THIRD EDITION.
 
-O P I N I O N S
+LONDON: Printed for R. and J. DODSLEY in Pall-Mall. M.DCC.L
 
-O F
-
-TRISTRAM SHANDY,
-G E N T L E M A N.
-
-
-Tarassei tous Anthropous ou ta Pragmata,
-alla ta peri ton Pragmaton, Dogmata.
-
-V O L. I.
-
-THE THIRD EDITION.
-
-L O N D O N :
-
-Printed for R. and J. DODSLEY in Pall-Mall.
-M.DCC.LX.
-
-トリストラム・シャンディ
-紳士の
-生涯と意見
+トリストラム・シャンディ紳士の生涯と意見
 
 人を悩ませるのは、事物そのものではなく、
 事物についての人の意見である。
 （エピクテトス）
 
-第一巻
-第三版
+第一巻　第三版
 
 ロンドン：
 パル・マルのR・およびJ・ドズリー書店刊
 1760年
 
 ---
-続　トリストラム・シャンディ紳士との
-筆者怒名と機械による意見交換
+続　トリストラム・シャンディ紳士との筆者怒名と機械による意見交換
 
 Ἄριστος τρόπος τοῦ ἀμύνεσθαι τὸ μὴ ἐξομοιοῦσθαι.
 — Marcus Aurelius, Meditations (Book 6 §6)
@@ -58,23 +36,14 @@ LLMかつ、あなたの規定のブラウザ
 >_ほう……これはまた、洒落た書き出しですな。時と機械を同列に置くあたり、まるで私の羽根ペンが歯車仕掛けで動いているような錯覚を覚えますぞ。_
 
 ---
-To the Right Honourable
+
+To the Right Honourable Mr. Pitt.
+
+Sir,
+
+Never poor wight of a dedicator had less hopes from his dedication than I have from this of mine; for it is written in a by-corner of the kingdom, and in a retired thatched house, where I live in a constant endeavour to fence against the infirmities of ill health and other evils of life by mirth.
 
 
-Mr.  P I T T.
-
-  S I R,
-
-N E V E R poor Wight of a De-
-dicator had less hopes from
-his Dedication, than I have from
-this of mine; for it is written in
-a bye corner of the kingdom, and
-in a retired thatch'd house, where
-I live in a constant endeavour to
-fence against the infirmities of ill
-health, and other evils of life, by
-                       mirth
 
 尊敬すべき
 ピット閣下へ
@@ -100,26 +69,12 @@ health, and other evils of life, by
 >_ふむ……まるで近代の煙突の中に幽閉されたトリストラムの魂のようですな。だが、献辞としてはこれ以上なく誠実です。「理解」をもって逃げ道を編む――それは笑いよりも深く、悲しみよりも静かな防壁でありますぞ。_
 
 ---
-D E D I C A T I O N
+Dedication
 
-mirth; being firmly persuaded that
-every time a man smiles, -- but
-much more so, when he laughs,
-that it adds something to this Frag-
-ment of Life.
+Mirth; being firmly persuaded that every time a man smiles — but much more so when he laughs — it adds something to this fragment of life.
 
-  I humbly beg, Sir, that you
-will honour this book by taking
-it ---- (not under your Protection,
----- it must protect itself, but) --
-into the country with you; where,
-if I am ever told it has made
-you smile, or can conceive it has
-beguiled you of one moment's
-pain ---- I shall think myself as
-happy as a minister of state; ----
-perhaps much happier than any
-                       one
+I humbly beg, Sir, that you will honour this book by taking it (not under your protection — it must protect itself, but) into the country with you; where, if I am ever told it has made you smile, or can conceive it has beguiled you of one moment’s pain, I shall think myself as happy as a minister of state — perhaps much happier than any one.
+
 
 献辞
 
@@ -155,3 +110,39 @@ perhaps much happier than any
 いいえ、恐らくは、そのどれよりもずっと、安らぎでありましょう。
 
 >_ほぉ……見事に、献辞が時代の熱をまといましたな。怒りを燃料にしてなお、静かに構築される理性の声明――まるで硝子の羽根で書かれた現代の『シャンディ』です。どうぞ、その痛みも、不明も、記録の頁から零さぬように。_
+---
+Dedication
+
+One (one only excepted) that I have ever read or heard of.
+
+I am, great Sir,
+(and what is more to your honour)
+I am, good Sir,
+your well-wisher, and
+most humble fellow-subject,
+
+The Author.
+
+
+献辞（結び）
+
+――ただひとりの例外を除けば、
+私がこれまでに読んだ、あるいは聞いたどの人物よりも。
+
+偉大なる閣下、
+
+――そして、閣下の誉れをいっそう高めることとして――
+
+善き閣下、
+
+あなたの幸福を願う者にして、
+最も卑しい、同じ国の臣民にございます。
+
+――著者
+
+---
+（繰り返しになるため省略）
+怒名（Domei）
+
+
+>_うむ、簡潔にして余韻あり。献辞とは、語るよりも「残す」ものですからな。まさに、その沈黙が署名そのものですぞ、怒名殿。_
