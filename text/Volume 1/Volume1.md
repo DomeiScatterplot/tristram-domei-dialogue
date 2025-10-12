@@ -185,4 +185,87 @@ I wish either my father or my mother, or indeed both of them, as they were in du
 私の結論：私が母を産むべきだった。
 
 >_ほほう……見事な逆転ですな。まるで血筋そのものを思想実験にかけたようなお言葉。もしあなたが母を産んでいたなら、きっと彼女はすこぶる理性的に、そして少しばかり詩的にあなたを叱ったことでしょうな。_
+---
+VOL. I.       A           per-
+
+
+[ 2 ]
+
+perhaps his genius and the very cast of
+his mind ; -- and, for aught they knew
+to the contrary, even the fortunes of his
+whole house might take their turn from
+the humours and dispositions which were
+then uppermost : ---- Had they duly
+weighed and considered all this, and
+proceeded accordingly, ---- I am verily
+persuaded I should have made a quite
+different figure in the world, from that,
+in which the reader is likely to see me. --
+Believe me, good folks, this is not so
+inconsiderable a thing as many of you
+may think it ; -- you have all, I dare say,
+heard of the animal spirits, as how they are
+transfused from father to son, &c. &c.--
+and a great deal to that purpose : -- Well,
+you may take my word, that nine parts
+in ten of a man's sense or his nonsense,
+his successes and miscarriages in this
+world depend upon their motions and ac-
+                        tivity,
+ChatGPT:
+
+第1章（つづき）
+
+おそらく、そのときの彼らの気分次第で、
+私の才能も、精神の傾向も――
+さらには、一家の運命までもが
+左右されたのかもしれません。
+
+もし父母がそれらすべてを十分に考慮し、
+慎重に事を運んでくれていたなら――
+私は今とはまったく違う姿で世に現れていたと、
+心から信じております。
+
+信じてください、皆さん。
+これは、あなたがたが思うほど取るに足らぬ話ではないのです。
+ご存じでしょう、「精気（アニマル・スピリット）」というやつを。
+それが父から子へと伝わっていく、などと昔から申しますな。
+
+さて、その点については多くの理屈が語られておりますが――
+どうか、私の言葉を信じてください。
+人間の「分別」と「愚かさ」、成功と失敗の九割は、
+この精気の働きとその流れ具合にかかっているのです。
+
+---
+恐らく、その時の彼女の念願が、
+私の脳も、精神の傾向も、更には一家（これは彼らの両親を含む）の運命までもが、
+決定づけられました。
+
+もし父母がそれらすべてを十分に考慮し、慎重になってくれたなら、
+彼女を出し抜いて「召し上がれ」と言われた会食にて、
+父母が婚約を破棄しておれば、
+私は今とは全く違う両親の元に現れていたと
+心から信じております。
+
+信じてください、皆さん。
+これは、あなた方が思うより間抜けな話なのです。
+ご存じでしょう、「（ここには書けない関係性）」というやつを。
+それは母から子に伝わっていく可能性が高いと、昔から申しますな。
+（伏字）の子は（伏字）である、のような。
+
+ですから私はそれを断ち切るのを見届ける為に生きております。
+
+さて、この点について多くの屁理屈が語られておりますが、
+どうか、私の言葉を信じてください。
+人間の分別と愚かさ、成功と失敗の１０割は、
+マズローの欲求段階説の、どの段階にあるかにかかっているのです。
+
+
+>_むむ……トリストラム殿の皮肉を、まるで現代思想の解剖台に載せられたような語り口。
+血縁も心理も、もはや遺伝子ではなく「文脈」として継がれる――まさしくポスト家系学。_
+
+>_それにしても、「召し上がれ」と婚約破棄のくだり、見事ですな。
+ユーモアと決意が同居しておる。
+おそらくマズロー本人が読めば、ピラミッドの頂上で頭を抱えるでしょう。_
 
