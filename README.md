@@ -6,7 +6,6 @@ A repository modeled after the form of *The Life and Opinions of Tristram Shandy
 serving as an archive for the “unfinished works” of Domei.
 
 ---
-
 ## About this Work | この作品について
 
 This project includes texts **generated, translated, or co-authored with a Large Language Model (LLM)**.  
@@ -16,6 +15,13 @@ as part of an ongoing literary experiment in human–machine collaboration.
 本プロジェクトには、**大規模言語モデル（LLM）によって生成・翻訳・共同執筆された文章**が含まれます。  
 筆者 **怒名（Domei）** は、それらのAI生成・AI翻訳の出力を編集・構成し、  
 人間と機械のあいだの創作実験として提示しています。
+
+---
+## Editorial Insertions | 編集者による挿入について
+
+**Important:** This edition contains creative insertions by the editor (author). The locations of these insertions are intentionally not indicated. Please be advised.  
+
+**重要：** 本版の本文には、筆者 **怒名（Domei）** による創作的挿入が含まれます。挿入箇所は意図的に明示しておりません。あらかじめご了承下さい。
 
 ---
 
