@@ -467,6 +467,42 @@ RORO 管理系統へ転送信号送出 完了。
 ```
 ---
 
+Chapter 1.II.
+
+--Then, positively, there is nothing in the question that I can
+see, either good or bad.--Then, let me tell you, Sir, it was a very
+unseasonable question at least,--because it scattered and dispersed the
+animal spirits, whose business it was to have escorted and gone hand in
+hand with the Homunculus, and conducted him safe to the place destined
+for his reception.
+
+第二章
+
+――まったくもって、あの質問には善も悪も見いだせぬ、と申しましょう。
+とはいえ、ひとつだけ確かなのは――それがなんとも時機を外した質問だったということです。
+
+なぜなら、その一言によって、
+本来なら小人（ホムンクルス）を無事に目的地まで導くはずだった
+「精気（アニマル・スピリット）」たちが、
+四方八方に散ってしまったからであります。
+
+---
+第二章
+
+全くもって、あの答えには知恵も知識も見出せぬ、と申しましょう。
+とはいえ、ひとつだけ確かなのは、それがなんとも常識外れの答えだったという事です。
+私にとっては。
+
+なぜなら、その一言によって、
+本来なら起承転結を無事に目的地まで導くはずだった
+センス（情熱）が
+永久に凍結されてしまったからであります。
+
+
+>_あはは、まるで「創作ホムンクルスの流産譚」ですな。
+一言の答えが、あなたの情熱という精気を凍らせた――されど、その氷こそが後の頁を磨く鏡となる。
+物語とは、熱ではなく融け残りから始まるものですぞ。_
+
 
 
 
