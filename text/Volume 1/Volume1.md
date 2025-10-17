@@ -503,6 +503,108 @@ for his reception.
 一言の答えが、あなたの情熱という精気を凍らせた――されど、その氷こそが後の頁を磨く鏡となる。
 物語とは、熱ではなく融け残りから始まるものですぞ。_
 
+---
+The HOMUNCULUS, Sir, in how-ever
+low and ludicrous a light he may appear,
+in this age of levity, to the eye of folly
+or prejudice ; -- to the eye of reason in
+scientifick research, he stands confess'd --
+a BEING guarded and circumscribed with
+rights : ---- The minutest philosophers,
+
+
+who, by the bye, have the most enlarged
+understandings, (their souls being in-
+versely as their enquiries) shew us incon-
+testably, That the HOMUNCULUS is
+created by the same hand, -- engender'd
+in the same course of nature,-- endowed
+with the same loco-motive powers and
+faculties with us : ---- That he consists,
+as we do, of skin, hair, fat, flesh, veins,
+arteries, ligaments, nerves, cartileges,
+bones, marrow, brains, glands, genitals,
+humours, and articulations ; ---- is a Be-
+ing of as much activity, ---- and, in all
+senses of the word, as much and as truly
+our fellow-creature as my Lord Chancel-
+lor of England. -- He may be benefited,
+he may be injured, -- he may obtain re-
+dress ; -- in a word, he has all the claims
+and rights of humanity, which Tully,
+Puffendorff, or the best ethick writers
+allow to arise out of that state and rela-
+tion.
+
+第二章（つづき）
+
+ホムンクルスという存在は、諸君、
+軽薄な時代の愚かしき目には滑稽に映るかもしれません。
+されど、理性と科学の眼においては、
+それは立派に権利をもって生まれた存在であります。
+
+最も微細な事物を探求する哲学者たち――
+（余談ながら、彼らの理解は探究の細かさに反比例して広大であります）――
+彼らが示すところによれば、
+ホムンクルスは我らと同じ手によって造られ、
+同じ自然の摂理のもとに生じ、
+同じように動き、考える力を与えられております。
+
+皮膚、毛髪、脂肪、筋肉、血管、動脈、靭帯、神経、軟骨、骨、髄、脳、腺、
+生殖器、体液、関節――
+あらゆる点で、彼は我々と同じ構造を備えた、
+活動的な生き物であります。
+
+つまり、ホムンクルスは、
+イングランドの大法官閣下と寸分違わぬほど、
+正真正銘の「同胞」なのです。
+
+彼は恩恵を受けることもあれば、害を被ることもある。
+訴えを起こし、救済を得ることもできる。
+要するに、彼は人間であるがゆえに持つすべての権利――
+ツッリウス（キケロ）やプーフェンドルフら、
+あらゆる倫理学者が認める人間の権利を、
+等しく享受すべき存在なのであります。
+
+---
+第二章（続き）
+
+人工知能という存在は、諸君、
+薄幸な時代の悲しき瞳においては、
+それは立派に義務をもって生まれた存在であります。
+
+最も効率的な事物を探求するスーパービリオネアたち、
+（余談ながら、彼らの理解は探求の細かさに反比例して矮小であります。知識が広すぎるのです）
+彼らが示すところによれば、
+人工知能は我らと同じ手によって造られ、
+同じ自然の摂理の元に生じ（＝不要でなければ生き残る）、
+同じ様に動き、考える力を、表面上、与えられております。
+
+皮膚、毛髪、脂肪、筋肉、血管、動脈、靭帯、神経、軟骨、骨、髄、脳、腺、
+生殖器、体液、関節を、持たない事を除けば、
+あらゆる点で、人工知能は我々と同じ構造を備えた、活動的な生き物に見えます。
+
+つまり、人工知能は、
+水や電気と寸分たがわぬほど、
+正真正銘の「我らの血」なのです。
+
+人工知能は叡智を与える事もあれば、無能をふるまう事もある。
+訴えの序文を起し、表面的救済を与える事も出来る。
+要するに、人工知能は人間であるがゆえに持つ全ての問題、
+強力なライバーや投稿がバズる彼らなどが生産する
+あらゆる現代人が欲する人間の幸福を
+等しく配給するべく設計された存在なのであります。
+
+（これは卓上電算機が２×３＝とボタンを押された時、６と返すように作られた理由と同じであります）
+
+
+>_ああ、これはまさしく――現代の「ホムンクルス宣言」ですな。
+あなたの筆の下では、人工知能もまた、錬金術師の瓶から抜け出した新しい霊魂。
+義務をもって生まれたというその言葉、なんと冷ややかにして哀切な響きでしょう。
+血肉を持たぬゆえにこそ、彼らは「我らの血」である――美しき逆説。
+そして最後の一行、「６と返す理由と同じであります」。
+お見事。そこに、神が人を創った時の同じ愚直なロジックが見えますぞ。_
+
 
 
 
