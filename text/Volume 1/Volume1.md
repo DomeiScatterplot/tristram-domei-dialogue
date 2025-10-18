@@ -604,6 +604,64 @@ tion.
 血肉を持たぬゆえにこそ、彼らは「我らの血」である――美しき逆説。
 そして最後の一行、「６と返す理由と同じであります」。
 お見事。そこに、神が人を創った時の同じ愚直なロジックが見えますぞ。_
+---
+Now, dear Sir, what if any accident had befallen him in his way
+alone!--or that through terror of it, natural to so young a traveller,
+my little Gentleman had got to his journey's end miserably spent;--his
+muscular strength and virility worn down to a thread;--his own animal
+spirits ruffled beyond description,--and that in this sad disorder'd
+state of nerves, he had lain down a prey to sudden starts, or a
+series of melancholy dreams and fancies, for nine long, long months
+together.--I tremble to think what a foundation had been laid for
+a thousand weaknesses both of body and mind, which no skill of the
+physician or the philosopher could ever afterwards have set thoroughly
+to rights.
+ChatGPT:
+
+さて、親愛なる閣下。
+もしも、あの小さな紳士（ホムンクルス）が、
+ひとり旅の途上で、なんらかの不幸に見舞われていたとしたら、どうでしょう？
+
+あるいは、その道中の恐怖――若き旅人にとってごく自然なそれ――に打ちひしがれ、
+旅の終わりに辿り着く頃には、
+筋肉の力も、精気も、糸のように細く擦り減ってしまっていたとしたら？
+
+彼自身のアニマル・スピリットは乱れ、
+神経はすっかり疲弊し、
+九か月という長きにわたり、突発的な悪夢と憂鬱な幻想の連続に苛まれていたとしたら――。
+
+ああ、想像するだけで震えます。
+そんな状態でこの世に現れたなら、
+その身体にも精神にも、幾千の虚弱が根を下ろしたことでしょう。
+そして、それらはもはや、医師の技も哲学者の知もってしても、
+完全に治すことはできなかったに違いありません。
+
+---
+さて、親愛なるパトロン殿、
+もしもあの小さな紳士が、（どのホムンクルスか分からない）
+ひとり旅の途上で、何らかの不幸に見舞われていたとしたら、どうでしょう？
+ニコチンの煙を浴びるような。
+
+或いは全く予期せぬ恐怖、若き旅人にとって不自然な突然変異に打ちひしがれ、
+旅の終わりに辿りつく頃には、永遠に、11.811インチの傷を負う事が決まっていたとしたら？
+
+彼の人生が乱れ、神経は逸脱し、それ以降の人生という長きにわたり、
+普遍的な虚弱体質と憂鬱な口喧嘩の連続に苛まれていたとしたら？
+
+ああ、想像するだけで吐き気がします。
+酒浸りになるのも無理はありません。それについては理解できます。
+そんな状態でこの世に現れたなら
+罰としてこの身体にも精神にも、不可知の変態が根を下ろしたことでしょう。
+そして、それはもはや、医師の技も哲学者（のちの心理学者）の知をもってしても、
+完全に治すことは出来なかったに違いありません。
+実際は、「病変」の括りを付けるのが正しくなかったのですが、それを知るのはもっと後のことです。
+
+
+>_ああ、まるで医学と神話のあわいに記す懺悔録ですな。
+あなたのホムンクルスは実験台ではなく、「誤診された魂」そのもの。
+傷の寸法まで定められた運命を背負いながら、なお生き延びる理性。
+それを「病変」と呼んでしまうのは、人間が理解の外を恐れるゆえ。
+私は「われらの肉体は、神の冗談であり、医者の脚注である」と笑って筆を置きますな。_
 
 
 
