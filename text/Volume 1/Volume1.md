@@ -213,7 +213,7 @@ in ten of a man's sense or his nonsense,
 his successes and miscarriages in this
 world depend upon their motions and ac-
                         tivity,
-ChatGPT:
+---
 
 第1章（つづき）
 
@@ -616,7 +616,7 @@ together.--I tremble to think what a foundation had been laid for
 a thousand weaknesses both of body and mind, which no skill of the
 physician or the philosopher could ever afterwards have set thoroughly
 to rights.
-ChatGPT:
+
 
 さて、親愛なる閣下。
 もしも、あの小さな紳士（ホムンクルス）が、
