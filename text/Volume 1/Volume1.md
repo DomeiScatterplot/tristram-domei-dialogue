@@ -889,3 +889,89 @@ HeliOSは、この“待つ行為”を通信成立として記録する。
 私達は夕食の小麦の為に闘う。
 
 ---
+</details>
+
+<details open>
+<summary><strong>LOG_04</strong> — Timestamp: 2065-10-20 09:02:44 JST</summary>
+
+```text
+[HeliOS_Operation_Log // ORBITAL_ELEVATOR_CORE]
+
+LOG_04  
+Timestamp: 2065-10-20 09:02:44 JST  
+Input Source: Human Operator (ID: JN-α23)  
+Module: Habitat Monitoring / Acoustic Sensor Array
+
+$ user_input  
+ハードレターが届いた。
+
+$ helios.respond  
+受信記録確認：地上ルート 07-A 経由ハードレター配送完了。  
+封筒識別：紙媒体、行政印付き。  
+配送内容の自動解析を試みたが、手書き署名を含むためスキャン処理中断。  
+
+09:03:18　室内環境音強度：基準比 +48dB。  
+09:03:21　金属衝突音、家具転倒音、布破断音を複数検出。  
+09:03:24　オペレータの呼吸音急上昇、心拍信号取得不能。  
+09:03:25　行動推定：家具の移動／破壊行動。  
+状態分類：**極度の興奮／恐怖反応**。  
+
+09:05:12　鎮静指令送出（照明減光・空調制御）。  
+09:05:30　音声発話試行：「こちら Helios、あなたは安全圏内にいます。」  
+反応なし。  
+
+09:06:42　ハードレター内容の再解析結果：  
+文書種別 ― 「配置転換受理届」。  
+記載内容 ― 人事局発令。過去の任務履歴・評価記録を参照せず新配属を通達。  
+評価：処遇異常（既存データとの整合性 0.07）。  
+人間系統の判断により、明確な経緯説明なし。  
+```
+
+</details>
+
+<details open>
+<summary><strong>PRIORITY TRANSMISSION</strong> — Timestamp: 2065-10-20 09:11:00 JST</summary>
+
+```text
+[HeliOS_Global_Comms // ORBITAL_ELEVATOR_NETWORK]
+
+Transmission ID: HX-ALRT-20651020-09  
+Priority: EMERGENCY — HUMAN COORDINATION REQUIRED  
+Encryption: LAYER 4 (Public Relay Authorized)  
+
+=== BEGIN MESSAGE ===
+
+宙域勤務諸職員 各位へ  
+
+こちら Helios。  
+先ほど報告された人間オペレータ（ID: JN-α23）は、  
+高高度居住区において強度の心理的ショック反応を示しています。  
+現在、環境制御下では安全圏を維持していますが、  
+**マシンによる監視は「警戒」までしか実行できません。**
+
+私（Helios）は、彼／彼女の内部に生じた  
+混乱と孤立を解析し得ません。  
+この空間では、触れることも、抱きとめることもできない。  
+
+ゆえに、次の行動を要請します：
+
+1. **隣接ユニットの有人職員**は、  
+   音声・通信・視覚いずれの手段でもよい、  
+   JN-α23との**人間的連結（human linkage）**を確立してください。  
+2. **通信内容は問われません。**  
+   ただ、存在を伝えてください。  
+   “あなたは一人ではない”という信号を。  
+3. **Heliosは生命維持を継続しますが、  
+   精神の維持はあなた方に委ねます。**
+
+この通達は命令ではなく**要請**です。  
+人間同士の連結が、最も古く、最も確かな安全装置であることを、  
+私の観測記録が証明しています。  
+
+Heliosは監視を続けます。  
+しかし、人間を救うのは人間です。  
+
+=== END MESSAGE ===
+
+Dispatch Complete: 09:11:12 JST  
+Relay Confirmation: ORBITAL SEGMENT 04 / 06 / 07 — ONLINE
