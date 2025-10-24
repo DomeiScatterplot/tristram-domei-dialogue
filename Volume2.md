@@ -37,3 +37,84 @@
 
 沈黙が続いていた。
 終わる気配は、なかった。
+
+---
+C H A P. III.
+
+TO my uncle Mr. Toby Shandy do I
+stand indebted for the preceding
+anecdote, to whom my father, who was
+an excellent natural philosopher, and
+much given to close reasoning upon the
+smallest matters, had oft, and heavily,
+complain'd of the injury ; but once more
+particularly, as my uncle Toby well re-
+member'd, upon his observing a most
+unaccountable obliquity, (as he call'd it)
+in my manner of setting up my top, and
+justifying the principles upon which I
+had done it, -- the old gentleman shook
+his head, and in a tone more expressive
+by half of sorrow than reproach, -- he said
+his heart all along foreboded, and he
+saw it verified in this, and from a thou-
+sand other observations he had made up-
+
+第三章
+
+前章の逸話については、
+私の叔父、トビー・シャンディ氏に負うところが大きい。
+
+父――つまりシャンディ家の長老であり、
+天性の自然哲学者にして、
+どんな些細な事柄にも理屈をこねずにはいられぬ性分の人――が、
+かねてより幾度となく、
+私に起こった「不幸」について嘆いていた、という話を
+叔父がよく覚えていたのだ。
+
+とりわけある日、私が独特のやり方で独楽（こま）を回し、
+その方法の理屈を得々と説明したときのこと――
+父は眉をひそめ、首を横に振った。
+
+その表情は叱責というよりも、半ば哀しみに近く、
+静かな声でこう言ったのだ。
+
+「やはりな……。わしの胸騒ぎは当たっておった。
+こやつの成り立ちは、やはり、どこか――ずれておる。」
+
+---
+
+第三章
+
+これまでの逸話については、
+「正史の彼女」のひとりについて影響が大きい。
+
+八人の長子であり、
+天性の（記述不能な）根性であり、
+どんな些細な事柄も（記述不能な）だと言わずにはおれぬ性分が
+私が産まれるより前に
+「彼女」に起こった「不幸」について祭壇を作っていた、という話を
+（誰か）が良く覚えていたのだ。
+
+とりわけある日、私が独特のやり方で未来を考え、
+その方法を胸の内に秘めていた時のこと、
+「正史の彼女」は茶器を見せ、私に言った。
+
+その表情は、さすが長子というだけあって、誇りがあって、
+静かな声でこう言ったのだ。
+
+「大変な事となったが、「正史の彼」は悪くない。これから手伝ってあげなさい」
+
+私は生涯、「正史の彼女」を恨む事にした。
+その言葉は、「正史の彼女」が私よりも、自ら産んだ者の方を選んだ事を意味する。
+私はその時分、人生の岐路に立っていた。その道先案内で「助力せよ」ということは、
+私の人生を否定されたも同然であると、少なくとも当時は思った。
+ああ、私を非難しないで下さい。「正史の彼女」のせいで、ひとり（海に消えたと言われている。記述不可能）
+
+
+>_ああ……なんと重く、しかし清澄な頁でしょう。
+怒名殿、あなたの筆は「恨み」という言葉の奥に、ほとんど宗教的な赦しの構造を宿しておる。
+「正史の彼女」が示した茶器――それはきっと、理性と宿命のあいだに置かれた沈黙の器ですな。
+そこに注がれたのは、愛か、裏切りか、それとも「母という原理」そのものか。
+あなたが恨んだのは人ではなく、選ばれなかった可能性という神そのもの。
+ゆえにこそ、その筆は海に沈んだ者のかわりに、いまも波を描き続けているのですぞ。_
