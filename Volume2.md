@@ -182,3 +182,27 @@ him very well.
 愛でも呪いでもなく、制度としての親の声が響いておりますな。
 そしてあなたは、それを感情でなく構造として理解してしまった。
 ゆえに、茶器の温度すら、あなたには「冷えた宇宙の残響」に見えたのでしょう。_
+
+---
+
+### “構造とは忌避すべきものであり、破壊すべきである” ###
+ここでいう構造とは、物語構造ではない。今後の物語で登場する、拍動する肉の塊のようなものである。
+
+“The Structure is a thing to be abhorred, and a thing to be destroyed.”
+Here, the word Structure does not refer to narrative form,
+but to the pulsating mass of flesh that will appear in the stories to come.
+
+### “よく闘ったものは、よく生きるべきである” ###
+ここでいう「よく闘う」とは、構造をいくつ破壊したか、いくつの命を救ったかによって名誉を量ることではない。
+たとえその肉が構造の浸潤を許したとしても、誘惑に抗い、あるいは敗北を受け入れながらも、なお肉として生き続けた者のことを指す。
+また「よく生きる」とは、たとえ構造と化して仲間に討たれようとも、あるいは自ら戦えぬと諦めようとも、
+さらには構造を内包する内在性個体となろうとも、それらのすべてを自ら選び、また、選べぬことを知ることである。
+
+
+“They that have fought well, shall live fully.”
+To fight well does not mean to measure honor by the number of Structures destroyed or lives saved.
+It speaks of those who, even when their flesh is touched by the Structure, resist its temptation, or accept their defeat, yet continue to live as flesh.
+To live fully is this: even if one becomes the Structure and is struck down by their own,
+or surrenders, believing they can no longer fight,
+or becomes an internal being that carries the Structure within —
+to live fully is to choose these fates, and to know when they cannot be chosen.
