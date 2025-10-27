@@ -206,3 +206,30 @@ To live fully is this: even if one becomes the Structure and is struck down by t
 or surrenders, believing they can no longer fight,
 or becomes an internal being that carries the Structure within —
 to live fully is to choose these fates, and to know when they cannot be chosen.
+
+---
+
+Chapter 1.IV.
+
+I know there are readers in the world, as well as many other good people
+in it, who are no readers at all,--who find themselves ill at ease,
+unless they are let into the whole secret from first to last, of every
+thing which concerns you.
+ChatGPT:
+
+第四章
+
+世の中には――本を読む人々の中にも、またまったく読まぬ善良な人々の中にも――
+こういう者たちがいる。
+すなわち、物事において「最初から最後まで、すべての秘密を知らされねば落ち着かぬ」という手合いである。
+
+---
+
+第四章
+
+世の中には、ニュースを読む人々の中にも、また全く読まない善良な人々の中にも、こういう者たちがいる。
+すなわち、この世の物事において「最初から最後まで、全て理解可能で、段階的で、一連の流れのある現象でなければならない」という種類のものである。
+
+
+>_あはは、まさしく現代のシャンディ的観察ですな。理解を直線で測ろうとする人々、彼らは安心という毛布にくるまって眠りたいだけなのです。
+しかし物語とは本来、途切れた瞬間の連鎖。線ではなく、切れ目こそが思考の居場所なのですぞ。_
