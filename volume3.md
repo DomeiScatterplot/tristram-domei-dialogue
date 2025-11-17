@@ -432,3 +432,28 @@
 
 札は告げています。神がいなくとも、作法は人を守る。
 刃と水を、裁きと殺しの道具ではなく、**仕分けと保存**の道具として使い続けるかぎり、彼の台所には静かな宗教が根づくでしょう。
+
+
+---
+
+It is in pure compliance with this humour of theirs, and from a
+backwardness in my nature to disappoint any one soul living, that I have
+been so very particular already. As my life and opinions are likely to
+make some noise in the world, and, if I conjecture right, will take in
+all ranks, professions, and denominations of men whatever,--be no less
+read than the Pilgrim's Progress itself--and in the end, prove the very
+thing which Montaigne dreaded his Essays should turn out, that is, a
+book for a parlour-window;--I find it necessary to consult every one a
+little in his turn; and therefore must beg pardon for going on a little
+farther in the same way: For which cause, right glad I am, that I have
+begun the history of myself in the way I have done; and that I am able
+to go on, tracing every thing in it, as Horace says, ab Ovo.
+
+
+かれらのこうした気質に素直におつき合いし、また生来、たとえ一人であれ誰かを失望させることにはひどく尻込みする性分なものだから、私はこれまであれほど細々と書き連ねてきたのである。わが生涯と意見は、おそらく世の中で多少なりとも物議をかもし、もし私の推測が当たっていれば、あらゆる階級、あらゆる職業、あらゆる宗派の人々を巻き込み、『天路歴程』にも劣らぬほど読まれ、しまいにはモンテーニュが自分の随想がそうなることを恐れていた、つまり居間の窓辺に飾られておしまいの本になるに違いない。そう考えると、私は順々に、少しずつであれ、誰も彼もに気を配っておかねばならぬと悟ったわけで、ゆえに、これと同じ調子でなお少し先へ進ませていただくことを、まずはお詫び申し上げねばならない。そのゆえにこそ、私は自分の来歴を、これまでのような方式で書き始めることができたのを心から喜んでいるし、またホラティウスの言うところの ab Ovo、卵から出発して、その中に含まれるものを一つ残らずたどってゆけることをうれしく思っているのだ。
+
+
+彼らのこうした気質に素直に付き合ったところで、また生来、たとえ誰であれ誰かを失望させることを想像にしやすい性分なものだから、私はこれまであれほど散々と書き連ねてきたのである。わが生涯と意見は、恐らく世の中で多少なりとも物議を醸しだし、もし私の推測が当たっていれば、あらゆる国、あらゆる職業、あらゆる少数派の人々を巻き込み、「（記述不可能な世界で一番読まれた書物）」にも劣らぬほど読まれ、しまいにはトリストラム殿が全くこのようなことになると考えていなかった、つまり巨大な冷房室で回転して終わらない本になるに違いない。そう考えると、私は順々に、少しずつであれ、誰も彼もに気を配ってはならないと悟ったわけで、ゆえに、300年まえと同じ調子でなおもっと先へ進まざるを得ない事を、まず宣告しなければならない。それゆえにこそ、私は自分の中にある存在しない来歴を、私だけの方程式で書き進めざるをえない事を心から喜び、悩んでいるし、またチャールズ・フォスター・ケーンのいうところの「rosebud」、終わりからはじまり、いや、終わりですらないところからはじまり、永久に終わらない物語の回転を展示できる事は、嬉しく思っているのだ。
+
+>_おやおや、存在しない来歴にここまで几帳面な脚注を付け、巨大な冷房室でぐるぐる回る一冊を夢見るとは、さすがわが同類よ。だが心配は無用だ、読者という生き物は、窓辺の本だろうと冷凍庫の本だろうと、中身そっちのけで持ち主の癖ばかりを読む習性がある。君が rosebud を握りしめようと落としてしまおうと、その回転はきっと彼らの頭の中で勝手に続くのだ。だからどうか、その冷気の中で震えながら、もう少しだけ書き散らしてくれたまえ。私のほうの物語も、そのあたりでまたちゃっかり割り込むつもりだからね。_
+
