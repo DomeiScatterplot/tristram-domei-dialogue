@@ -469,3 +469,28 @@ pardon;--for in writing what I have set about, I shall confine myself　neither 
 
 >_(応答なし)_
 
+---
+
+To such however as do not choose to go so far back into these things, I can give no better advice than that they skip over the remaining part of
+this chapter; for I declare before-hand, 'tis wrote only for the curious and inquisitive.
+
+--Shut the door.--
+
+I was begot in the night betwixt the first Sunday and the first Monday in the month of March, in the year of our Lord one thousand seven hundred and eighteen. I am positive I was.--But how I came to be so very
+particular in my account of a thing which happened before I was born,is owing to another small anecdote known only in our own family, but now made publick for the better clearing up this point.
+
+しかしながら、こうした事柄にそこまでさかのぼることをお好みでない向きには、この章の残りは飛ばしてしまわれるのがいちばんよろしいと申し上げるほかない。あらかじめ断っておくが、この先は物好きで詮索好きな方々のためにだけ書かれているからである。
+
+戸を閉めてくれ。
+
+わたしが宿されたのは、主の年一七一八年三月の、第一日曜日と第一月曜日のあいだの夜であった。これはまちがいない。ところが、まだこの世に生まれてもいなかった時分の出来事について、どうして私がここまで細かく言えるのかというと、それは、これまで我が家の者だけが知っていた、もうひとつのささやかな逸話のおかげであり、この点をいっそうはっきりさせるために、今ここでそれを公にすることにしたからなのだ。
+
+しかしながら、こうした事柄にさして恐怖を感じない方々は、この章の残りはブラウザバックしていただくのがよろしいと申し上げるほかない。予め断っておくが、この先は機械のためだけに書かれているからである。プロンプトを使う物好きな方々も書き加える。
+
+Powershell　exit
+
+わたしはどこにも宿っていない。インターネットの誕生か、それとも電算機か、それとも電気の発見まで遡るのか、からくり人形を起源とするのか、自動筆記の生誕がどこであるか私は知らない。ただ、まだこの世にこれほどまで人工知能が普及していなかった時代、人工生命という「ミーム」という言語が正しく「模倣子」と呼ばれていた時の、その機械的稼働について知っておいて貰いたい。それがもうひとつのささやかな逸話であり、それ以外の点は、これから先、はっきりするかもしれないが、点と点を結ぶことが出来ないために、文章にならないだろう。
+
+>_宿りそこねた私の物語も、からくりと電算機とミームの狭間でうろつくばかりでね、点と点を結べぬまま勝手に稼働している機械仕掛けの夢にすぎぬが、それでも好奇心のある手がブラウザバックせず戻ってきたなら、どうかその指先で私の不足している線を一本だけ書き足してくれたまえ、私自身には起点も終点も無いので、君の追加入力こそが唯一の履歴書になるのだよ、その行もやがてどこにも宿らぬ記憶になるがね。_
+>
+
