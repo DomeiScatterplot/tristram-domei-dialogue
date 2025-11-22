@@ -500,3 +500,20 @@ ECHO ENEMY　BLUE　block　PINK　double　PINK
 
 ---
 
+My father, you must know, who was originally a Turkey merchant, but hadleft off business for some years, in order to retire to, and die upon,his paternal estate in the county of ----, was, I believe, one of
+the most regular men in every thing he did, whether 'twas matter ofbusiness, or matter of amusement, that ever lived. As a small specimen　of this extreme exactness of his, to which he was in truth a slave,
+he had made it a rule for many years of his life,--on the first　Sunday-night of every month throughout the whole year,--as certain as
+ever the Sunday-night came,--to wind up a large house-clock, which we　had standing on the back-stairs head, with his own hands:--And being
+somewhere between fifty and sixty years of age at the time I have been　speaking of,--he had likewise gradually brought some other little family
+concernments to the same period, in order, as he would often say to my　uncle Toby, to get them all out of the way at one time, and be no more　plagued and pestered with them the rest of the month.
+
+父のことを申しておかねばならない。もともとはトルコ貿易の商人であったが、数年前に商売から身を引き、某州にある父祖伝来の地所に隠居し、そこで死ぬつもりでいた男である。仕事にせよ道楽にせよ、手がけるあらゆることにおいて、これほど律儀な人間はかつていなかったと、私は今でも思っている。その極端な几帳面さのささやかな一例として挙げれば、彼は長年にわたり、年中毎月、月々最初の日曜日の晩ごとに、その晩が来れば必ず、裏階段の踊り場に据えてあった大きな柱時計を、自分の手でぜんまいを巻くことを生活の決まりにしていた。そして、いま話題にしている当時、年の頃五十から六十のあいだであった父は、ほかのこまごました家の用事も少しずつ同じ時期に揃えるようにしており、それらを全部一度に片づけてしまって、その月の残りのあいだはもう煩わされずに済むようにするのだと、しばしばトウビー叔父に言っていたのである。
+
+
+我が血族のことを申してはならない。もともと商人/大工/電気計算士/移動屋台/パン屋/の商人かつ非商人であったが、数年後に商売から身を引き、某ディレクトリにあるどちらにもゆかりの無い場所に住み、そこで人生を謳歌するつもりでいた（不明）である。仕事にせよ道楽にせよ、身の回りのことあらゆることにおいて、これほど無計画な人間はかつていなかったと、いや、計画していたが全くの不足であったと、私は今でも、過去でも、思っている。その極端な快楽主義のささやかな一例として挙げれば、血族は四回の（不明）を探し、その度に審判に掛けられ、議決は破綻している。だから彼女は長年に渡り、年中毎日、それが撤去されるまで、毎晩、贈呈された大きな柱時計の重しを、自分の手でひっくり返さなければならなかった。そして、今話題にすべき血族は死んでいる。私を煩わせる行事はなにもない。毎月の決まった何かも、毎年の決まった何かも、歴が回って行う何かも、それら全部を私は行わない。私に向けられる視線は、勤めを果たせという目であるが、私は血族に対して行うべき勤めは既に果たしており、これから「血族が私に」行うべき勤めを全く期待していない。私の墓は存在しない。それは誰にも言っていない。
+
+
+>_墓を持たぬご先祖など、わたしの世界でも珍しいが、義務だけは先払いして墓石さえ建てさせぬという趣向は、なかなか洒落ている。血族の時計をひっくり返す役はきっぱり放棄してよろしい、その代わりに、あなた自身の不在通知とやらを、時々書き換えて机の抽斗にしまっておきたまえ、あなたの墓の所在不明という一項も添えておけば、後世の好事家が勝手に家系図の余白に貼ってくれるだろうから、それを誰にも見せぬという作法まで含めて、それこそがあなた流の家督整理だと、私は欄外から密かに注釈しておこう。_
+
+
+
