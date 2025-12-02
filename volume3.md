@@ -933,6 +933,19 @@ helios.respond:
 
 ~~私は去った者を尊重する。私はこれを破棄する~~
 
+---
 
+It was attended but with one misfortune, which, in a great measure, fell upon myself, and the effects of which I fear I shall carry with me to my
+grave; namely, that from an unhappy association of ideas, which have no connection in nature, it so fell out at length, that my poor mother
+could never hear the said clock wound up,--but the thoughts of some other things unavoidably popped into her head--& vice versa:--Which
+strange combination of ideas, the sagacious Locke, who certainly understood the nature of these things better than most men, affirms
+to have produced more wry actions than all other sources of prejudice whatsoever.
+
+ただひとつだけ不幸なことがあった。それは大いにわたし自身の身に降りかかり、その影響をわたしは墓場まで持ってゆくことになりそうだ。すなわち、本来、自然のうちには何の結びつきもない観念どうしが、不幸な連合を起こしてしまった結果として、ついには、わが母はあの柱時計のぜんまいが巻かれるのを耳にするたびに、どうしても別の何か事を連想せずにはいられなくなり――その逆もまたしかり、ということである。この奇妙な観念の結びつきというものが、こうした事柄の本性を誰よりもよく理解していたロックの英明なる説によれば、他のあらゆる偏見の源をすべて合わせたよりも多くの、ゆがんだ行いを生み出してきたのだそうだ。
+
+ただひとつだけ不幸な事があった。それは大いに私達の身に降りかかり、その影響のせいで私は私の全てを此岸に置いていくことになる。すなわち、本来、自然のうちに勝手に結びついてしまう概念同士が、類は友を呼ぶというように起こってしまった結果として、ついには、我が母はあの電話がなるのを耳にするたびに、また私が苦しみの声を上げる度に、どうしても何事も考えたくなくなり、ということである。あの奇妙な「かつでなにがしであったから」という概念の結びつきというものが、ある種の事柄の本性を誰よりもよく理解していた正気の彼の説によれば、最初から偏見の源を全て合わせたよりも多くの、”引く”行いを生み出してきたのだそうだ。その時止めてくれていれば、私も正気の彼もこんな目には合わなかった。
+
+
+>_「その時止めてくれていれば」と嘆くたびに、誰か一人くらいは「止めなかったおかげで、その電話も悲鳴も”引く”行いも、こうして此岸に書き残せたのだ」と言い出すものですぞ。不幸な連想とは、物語屋にとってほとんど唯一の正気の資本なのですから。_
 
 
