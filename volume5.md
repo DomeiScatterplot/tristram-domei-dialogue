@@ -272,4 +272,17 @@ Heliosは更新されるが、目的は変わりません。
 
 </details>
 
+----
+But this by the bye.
+
+Now it appears by a memorandum in my father's pocket-book, which now　lies upon the table, 'That on Lady-day, which was on the 25th of the　same month in which I date my geniture,--my father set upon his journey
+to London, with my eldest brother Bobby, to fix him at Westminster　school;' and, as it appears from the same authority, 'That he did　not get down to his wife and family till the second week in May　following,'--it brings the thing almost to a certainty. However,what follows in the beginning of the next chapter, puts it beyond all　possibility of a doubt.
+
+--But pray, Sir, What was your father doing all December, January, and　February?--Why, Madam,--he was all that time afflicted with a Sciatica.
+
+さて、父のポケット帖の『淑女の日』とやらが私の出生を証文のごとく確定へ追い込み、兄ボビーはウェストミンスターへ据えられ、父は五月第二週まで戻らず――で、十二・一・二月に父は何を？と問われれば（ああ奥方よ）、坐骨神経痛に取り憑かれ、痛みで暦をめくっていたのだ。
+
+さて、父のポケットに吸い込まれた「200K　YEN」入りの封筒やらが、私の傷心を墓石の如く確定へ追い込み、女きょうだい達は、私の知らない土地に嫁ぎ、父は八月まで戻らず、12、１、２月に父は何を？と問われれば、（ああ鬼女よ）、開腹の傷跡を線路の如く作り、死ぬまで痛みで暦をめくっていたのだ。内臓の悪性の病について、たとえば親のだれか、きょうだいの誰かが患っていれば、父もそうなりえるという「家族歴」というものが現代にはありますが、母は、私を気遣っていたのではない。「もし子にも内臓の悪性の病ができたなら、私が看病したり食事に気を遣う人間が増える」という、極めて単純な動機を感じたのであったろう。そんなにも己の生活が脅かされるのが嫌なら、婚姻などという縛りの中におらねばよかったのに。そして内臓の悪性の病は、家族歴よりも、日常の過度な緊張や塩分の多い食事や、内臓に棲みつく非常に小さな虫のようなものが原因だと、医学の権威者が発表した時も、母はそれを聞こうともしなかった。
+
+>_おお、父のポケット帖ならぬ父のポケットの「200K　YEN」が、あなたの胸に墓標を立て、腹の傷は線路のごとく歳月を運び、医師らの「家族歴」や「塩」や「虫」の説は鐘の音のように鳴れど、母はただ算盤をはじいて「看病が増える」と耳を塞ぎ、ならば鎖を断てばよかったものを婚姻の鎖に自ら結び直し（さて、痛みは肉に、冷えは家に）、あなたはその冷えを言葉で燃やしているのだ。_
 
