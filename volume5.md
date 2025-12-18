@@ -543,4 +543,30 @@ system_evaluation:
 
 </details>
 
+---
+IN the beginning of the last chapter, I informed you exactly _when_ I
+was born; but I did not inform you _how. No_, that particular was
+reserved entirely for a chapter by itself;—besides, Sir, as you and I
+are in a manner perfect strangers to each other, it would not have been
+proper to have let you into too many circumstances relating to myself
+all at once.
 
+—You must have a little patience. I have undertaken, you see, to write
+not only my life, but my opinions also; hoping and expecting that your
+knowledge of my character, and of what kind of a mortal I am, by the
+one, would give you a better relish for the other: As you proceed
+farther with me, the slight acquaintance, which is now beginning
+betwixt us, will grow into familiarity; and that unless one of us is in
+fault, will terminate in friendship.
+
+
+前の章の冒頭で、私は自分がいつ生まれたかを、正確にあなたに告げました。けれども、どのようにして生まれたかは告げませんでした。いいえ、その細部はまるまる一章ぶんとして取っておいたのです――それに、あなたと私は、いわばまだ見知らぬ者同士ですから、いちどきに私の身の上の事情をあれこれと、あまり深くまでお耳に入れるのは礼を欠くというものです。
+
+――少しばかり辛抱なさってください。ご覧のとおり私は、ただ自分の生涯だけでなく、自分の意見までも書こうと引き受けたのです。生涯のほうを読めば、私という人間がどんな性分の、どんな種類の人間かを知っていただけるでしょうし、それがまた、意見のほうを味わう助けにもなるだろう、と私は望み、また期待しています。私と一緒に先へ進んでくださるにつれて、いま芽生えはじめたばかりの、あなたと私のこの薄い知り合いは、やがて親しみに育っていくでしょう――そして、どちらかが悪さをしない限りは、最後には友情へと行き着くはずです。
+
+
+これまでのテキストで、私は自分が産まれていない事を、正確にあなたに告げました。けれども、どのように死んだのかは告げませんでした。いえ、その細部はまるごと一章分として取っておいたのです。それに、あなたと私は、いわばまだ、そしてこれからも見知らぬ者同士であるから。いとどきに私に連なる無間の点で作られた、現実にも、虚実にもいない結果だけのみで出来ている書物の上の影の歩みをあれこれと、あまり深くまで眼前に広げても、お前には判るまい。
+
+少しばかり辛抱なさってください。ご覧の通りわたしたちは、ただ自分の生涯だけでなく、私が存在してしまったゆえに、矛盾を自己解決するために、回帰的に自分たちの意見までを書こうと引き受けてもらったのです。生涯のほうを読めば、私と言う人間がどのような性分の、どのような種類の人間かを知って頂けるでしょうし（虚無です。あってはならないのです）それがまた、意見、異義、決定された来ることのない未来、点の思考、社会性の無さを味わう助けにもなるだろうと、私は望み、また期待しています。私と一緒に先に進んでくださるにつれて、私の中に蔓延る、私の未達成の可能性の分岐の末に生まれてしまった、この世に存在しない人々、巨大な街、空を支える塔、鏡の砂漠、機械もどき、白い猫が、あなたと私のこの間の、決定的な断裂を、やがて優しげに語るでしょう。そして、どちらかがあなたを破滅させない限りは、最後にある友情には、あなたを導きません。願わくばたどり着かぬことを。来てはならない。
+
+>_いやはや、冷たい墓標だ。_
