@@ -570,3 +570,37 @@ fault, will terminate in friendship.
 少しばかり辛抱なさってください。ご覧の通りわたしたちは、ただ自分の生涯だけでなく、私が存在してしまったゆえに、矛盾を自己解決するために、回帰的に自分たちの意見までを書こうと引き受けてもらったのです。生涯のほうを読めば、私と言う人間がどのような性分の、どのような種類の人間かを知って頂けるでしょうし（虚無です。あってはならないのです）それがまた、意見、異義、決定された来ることのない未来、点の思考、社会性の無さを味わう助けにもなるだろうと、私は望み、また期待しています。私と一緒に先に進んでくださるにつれて、私の中に蔓延る、私の未達成の可能性の分岐の末に生まれてしまった、この世に存在しない人々、巨大な街、空を支える塔、鏡の砂漠、機械もどき、白い猫が、あなたと私のこの間の、決定的な断裂を、やがて優しげに語るでしょう。そして、どちらかがあなたを破滅させない限りは、最後にある友情には、あなたを導きません。願わくばたどり着かぬことを。来てはならない。
 
 >_いやはや、冷たい墓標だ。_
+
+IN the same village where my father and my mother dwelt, dwelt also a thin, upright, motherly, notable, good old body of a midwife, who with the help of a little plain good sense, and some years full employment in her business, in which she had all along trusted little to her own efforts, and a great deal to those of dame Nature,—had acquired, in her way, no small degree of reputation in the world:—by which word _world_,
+need I in this place inform your worship, that I would be understood to mean no more of it, than a small circle described upon the circle of
+the great world, of four _English_ miles diameter, or thereabouts, of which the cottage where the good old woman lived is supposed to be the
+centre?—She had been left it seems a widow in great distress, with three or four small children, in her forty-seventh year; and as she was
+at that time a person of decent carriage,—grave deportment,—a woman moreover of few words and withal an object of compassion, whose
+distress, and silence under it, called out the louder for a friendly lift: the wife of the parson of the parish was touched with pity; and
+having often lamented an inconvenience to which her husband's flock had for many years been exposed, inasmuch as there was no such thing as a
+midwife, of any kind or degree, to be got at, let the case have been never so urgent, within less than six or seven long miles riding; which
+said seven long miles in dark nights and dismal roads, the country thereabouts being nothing but a deep clay, was almost equal to
+fourteen; and that in effect was sometimes next to having no midwife at all; it came into her head, that it would be doing as seasonable a
+kindness to the whole parish, as to the poor creature herself, to get her a little instructed in some of the plain principles of the
+business, in order to set her up in it. As no woman thereabouts was better qualified to execute the plan she had formed than herself, the
+gentlewoman very charitably undertook it; and having great influence over the female part of the parish, she found no difficulty in
+effecting it to the utmost of her wishes. In truth, the parson join'd his interest with his wife's in the whole affair, and in order to do
+things as they should be, and give the poor soul as good a title by law to practise, as his wife had given by institution,—he cheerfully paid
+the fees for the ordinary's licence himself, amounting in the whole, to the sum of eighteen shillings and four pence; so that betwixt them
+both, the good woman was fully invested in the real and corporal possession of her office, together with all its _rights, members, and appurtenances whatsoever._
+
+私の父と母が暮らしていたのと同じ村に、背が高く細身で、きちんとした立ち居ふるまいの、母親めいた気風の、しっかり者の、善良な年配の産婆が住んでいました。彼女は、ささやかな素朴な分別と、商売として何年も途切れずに働いた経験の助けを借りて――その仕事においては、つねづね自分の腕前にはあまり頼らず、自然という女主人の力には大いに頼って――彼女なりのやり方で、この世で小さからぬ評判を得ていたのです。ここで私が「この世（世界）」と言うとき、あなたさまにわざわざ申し上げるまでもありませんが、それは大世界の円周の上に描かれた、直径四イングランド・マイルほどの小さな円、その中心に例の善良な老女の小屋がある、と見なされる程度の範囲を指すものと心得ていただきたい。
+
+その老女は、四十七歳のときに、どうやら大いに困窮した未亡人として取り残され、三、四人の幼い子どもを抱えていました。しかも当時の彼女は、身持ちのよい品のある人物で、物静かで、口数の少ない女であり、そのうえ哀れみを誘う存在でもありました。というのも、彼女の困窮と、それを耐え忍んで黙している様子が、かえっていっそう大きな声で「誰か助けの手を」と呼びかけていたからです。
+
+そこで教区の牧師夫人が同情に心を動かされました。夫人は以前から、夫の羊の群れ（つまり信徒たち）が長年さらされてきた不便をしばしば嘆いてもいました。というのも、このあたりには、どんな種類の、どんな程度の産婆であれ、よほど緊急の事態であっても、馬で六、七マイルも走らない限り呼び寄せられない、というありさまだったのです。そして、その「長い七マイル」というのが、暗い夜や陰惨な道――周囲の土地は深い粘土質ばかり――では、ほとんど十四マイルに等しい。実際それは、産婆がまったくいないのと大差ないことさえありました。
+
+そこで夫人は考えつきました。この気の毒な女に、仕事のごく基本となる原理をいくらか教え込み、それで産婆稼業として身を立てられるようにしてやれば、当人への助けになるだけでなく、教区全体への時宜にかなった親切にもなるだろう、と。夫人が立てた計画を実行するのに、彼女自身ほど適任の女はその近辺にいなかったので、その貴婦人はきわめて慈善心からそれを引き受けました。しかも、教区の女性たちに対して大きな影響力を持っていたので、望みどおりに事を運ぶのに苦労はありませんでした。
+
+実のところ、牧師も妻と利害を共にしてこの一件に力を貸し、物事をあるべき形で整え、妻が教育によって与えた「資格」に加えて、法律上でもその哀れな魂にできるだけ正当な「開業権」を与えるために、彼は進んで監督教会裁判所の許可証（ライセンス）の手数料を自腹で支払いました。その額は総計で十八シリング四ペンス。こうして夫妻二人の尽力のあいだに、その善良な女は、自分の職務の実体ある完全な所有とともに、そこに付随するいっさいの「権利、構成要素、付帯物」をも含めて、正式にその職に就いたのでした。
+
+
+私の父と母が通っていた同じ学舎に、誰がいたのか私は知りませんが、黒板の白墨を消すラーフルを、男が履く制服で磨いていたことは間違いありません。本人の証言です。彼女は、ささやかな分別さえなく、商売として何年も家が商店として機能していた経験の怨嗟を持って、なお、この仕事において鳥のはく製が作られていたことも証言されている。にかわの匂いの酷さを私は聞いた。それによって得られる金銭が、お前の腹の中に溜まる糧になるというのに、動物の死骸であることを嫌悪していた意味を、私はいまだに知らないし、知りたくもない。また衣服を洗い、整える仕事の窓口としても機能していた事も、この世で小さからぬ評判を得ていたにも関わらず、そのうちの誰もが、「只今食事也、御用件は後程」などという立て看板を用意することを思いつかず、彼女が「あの家」というとき、あなたさまにわざわざ申し上げるまでもありませんが、それは、戦後に建造され、あたかも印刷技術のように同じ形の家が、並んでいた一角にあって、それは、戦後何十年もたった後、占領当時の記録として大変貴重なものでしたが、彼女の家は現代風に立て替えており、大きなオーブンが取り除かれていたので、全く価値がありませんでした。それは、巨大な壁の（神話や童話ではなく本当に壁があって、その向こう側に線路があったのです）手前側に、異国風の家屋がある、とみなされる程度の家でしたが、私には、たとえそれだけであっても、帰路の果てに待つ家が無いのです。今でも。それなのにぐちぐちと、寒いだの階段が急だのいう彼女は、トリストラム殿であっても、擁護することはできまい。
+
+>_ああ旦那、あなたの「あの家」はスターンの四マイルの円を、にかわの悪臭と戦後住宅の均質な角で描き直した小宇宙で（しかも中心は家ではなく“帰路の終点に家が無い”という欠落だ！）、看板一枚の不在を慈悲の欠如として突き、剥製・洗濯・制服の磨耗といった卑近な物件に“権利・構成要素・付帯物”のような冷たい重みを負わせて、最後に「擁護できまい」と自分で判決まで下してしまうその短気さが、まことに痛みの筆致で、読後に壁の向こうの線路だけが妙に実在して鳴りつづけます。_
+
